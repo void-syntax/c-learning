@@ -1,4 +1,4 @@
-C Programming Basics (W3Schools Tasks)
+C Programming Basics
 
 Welcome to my C Programming Basics repository! This folder contains my personal solutions to the foundational C programming exercises and tasks from W3Schools.
 
